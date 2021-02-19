@@ -53,6 +53,15 @@ a {
   position: relative;
 }
 
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
 .top-cloud {
   width: 12%;
   position: absolute;
@@ -69,6 +78,7 @@ a {
 
 .img {
   width: 12.5%;
+  margin-bottom: 40px;
 }
 
 .image1 {
@@ -114,13 +124,6 @@ a {
   font-size: 0.75rem;
   color: #EAF6F6;
   padding: 20px 0;
-}
-
-.bottom-container {
-  background-color: #66BFBF;
-
-  padding-bottom: 30px;
-  padding-top: 30px;
 }
 
 .btn {
