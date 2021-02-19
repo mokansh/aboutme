@@ -48,14 +48,14 @@ p {
 }
 
 .top-cloud {
-  width : 12%;
+  width: 12%;
   position: absolute;
   right: 200px;
   top: 50px;
 }
 
 .bottom-cloud {
-  width : 12%;
+  width: 12%;
   position: absolute;
   left: 200px;
   bottom: 300px;
