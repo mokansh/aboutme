@@ -1,4 +1,5 @@
 body {
+  color: #40514E;
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
@@ -35,7 +36,6 @@ hr {
 }
 
 p {
-  color: black;
   margin: 30px auto 30px auto;
   font-weight: bold;
   line-height: 2;
