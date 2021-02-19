@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  margin-top: 0;
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: bolder;
+}
+
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+  }
+
+hr {
+  color: #EAF6F6;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 3%;
+  margin: 50px auto 50px;
+
+}
+
+p {
+  color: black;
+  margin: 30px auto 30px auto;
+  font-weight: bold;
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+  position: relative;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.img {
+  width: 12.5%;
+}
+
+.image1 {
+  height: 25%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.image2 {
+  height: 25%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  margin : 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  width: 50%;
+}
+
+.bio-para {
+  margin-top: 0;
+}
+
+.mySkill {
+  margin-bottom: 0;
+}
+
+.contact-me {
+  margin: 60px auto 60px auto;
+}
+
+.foot {
+  margin: 30px auto 0 auto;
+  color: #EAF6F6;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.BUTTON_GIB {
+   -webkit-border-radius: 7px;
+   -moz-border-radius: 7px;
+   border-radius: 7px;
+   height: 0;
+   line-height: 0;
+   color: #FFFFFF;
+   font-family: Helvetica;
+   width: 131px;
+   font-size: 19px;
+   padding: 18px;
+   background-color: #66BFBF;
+   -webkit-box-shadow: 0 0 0 0 #FFFFFF;
+   -moz-box-shadow: 0 0 0 0 #FFFFFF;
+   box-shadow: 0 0 0 0 #FFFFFF;
+   text-shadow: 0 0 0 #000000;
+   border: solid #66BFBF 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 20px auto 50px;
+}
+
+.footer-link {
+    color: #11999E;
+    margin: 20px 10px 20px 10px;
+    text-decoration: none;
+  }
