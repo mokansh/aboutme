@@ -87,7 +87,8 @@ p {
 }
 
 .bio-para {
-  margin-top: 0;
+  width: 30%;
+  margin: auto;
 }
 
 .mySkill {
