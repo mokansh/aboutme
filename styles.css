@@ -95,6 +95,10 @@ p {
   margin-bottom: 0;
 }
 
+.contact-line {
+  margin: 40px auto 60px;
+}
+
 .contact-me {
   margin: 60px auto 60px auto;
 }
